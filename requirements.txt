@@ -1,0 +1,8 @@
+Flask==2.1.1
+pandas==1.4.0
+Pillow==9.0.1
+pytesseract==0.3.9
+PyPDF2==3.0.1
+numpy==1.22.2
+requests==2.26.0
+Werkzeug==2.0.3
